@@ -1,5 +1,3 @@
-# semantic-html-scavanger-hunt
-
 # Semantic Scavenger Hunt
 
 Spend the next 30 minutes finding examples of semantic tags being used "in the wild", aka on live websites. For each tag, use MDN to help you write a definition of the semantic use of the tag, then find a live example, record the url for the website where the tag is used and write a sentence about (Is the tag is being used appropriately? Why or why not? You don't need to find an example for every tag, just do as many as you can. We'll share examples of uses found after completing.
